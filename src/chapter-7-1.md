@@ -1,4 +1,4 @@
-Chapter 7: Collaborating with Cross-Functional Teams: Importance of Collaborating with Cross-Functional Teams in Successful Marketing Campaigns
+Importance of Collaborating with Cross-Functional Teams in Successful Marketing Campaigns
 ===============================================================================================================================================
 
 In this chapter, we will discuss the importance of collaborating with cross-functional teams in achieving success with marketing campaigns. By working closely with other departments such as sales, product development, and customer support, marketing managers can ensure that their campaigns are aligned with broader business objectives and are more likely to drive business growth.

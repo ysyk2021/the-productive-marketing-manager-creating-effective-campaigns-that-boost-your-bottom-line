@@ -1,4 +1,4 @@
-Chapter 8: Managing Projects and Prioritizing Tasks: Strategies for Using Project Management Tools, Delegating Tasks, and Staying Organized
+Strategies for Using Project Management Tools, Delegating Tasks, and Staying Organized
 ===========================================================================================================================================
 
 In this chapter, we will discuss strategies for managing projects and prioritizing tasks as a marketing manager. This includes using project management tools, delegating tasks effectively, and staying organized.

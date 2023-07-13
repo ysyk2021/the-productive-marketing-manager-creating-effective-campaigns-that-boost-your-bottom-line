@@ -1,4 +1,4 @@
-Chapter 8: Managing Projects and Prioritizing Tasks: Techniques for Managing Projects and Prioritizing Tasks Effectively to Meet Deadlines and Stay on Budget
+Techniques for Managing Projects and Prioritizing Tasks Effectively to Meet Deadlines and Stay on Budget
 =============================================================================================================================================================
 
 In this chapter, we will discuss techniques for managing projects and prioritizing tasks effectively to meet deadlines and stay on budget as a marketing manager.

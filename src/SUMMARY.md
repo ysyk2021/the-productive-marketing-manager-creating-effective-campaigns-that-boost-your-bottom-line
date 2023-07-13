@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction](chapter-1.md)
+- [Chapter 1: Introduction](README.md)
   - [Defining the productive marketing manager and its benefits](chapter-1-1.md)
   - [Overview of the essential techniques for creating effective campaigns that boost your bottom line](chapter-1-2.md)
 - [Chapter 2: Understanding Consumer Behavior and Market Trends](chapter-2.md)
@@ -28,8 +27,5 @@
 - [Chapter 9: Adapting to Changing Market Conditions and Trends](chapter-9.md)
   - [Importance of adapting to changing market conditions and trends in maintaining a competitive edge](chapter-9-1.md)
   - [Techniques for staying informed, anticipating changes, and pivoting strategies as needed](chapter-9-2.md)
-- [Chapter 10: Conclusion](chapter-10.md)
-  - [Recap of strategies for creating effective marketing campaigns that boost your bottom line](chapter-10-1.md)
-  - [Encouragement to continue exploring the power of productivity in marketing management for long-term success](chapter-10-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

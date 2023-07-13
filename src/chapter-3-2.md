@@ -1,4 +1,4 @@
-Chapter 3: Developing a Marketing Plan and Budget: Techniques for Setting SMART Goals, Outlining Timelines, and Allocating Resources Effectively
+Techniques for Setting SMART Goals, Outlining Timelines, and Allocating Resources Effectively
 ================================================================================================================================================
 
 In this chapter, we will explore techniques for developing a marketing plan and budget that can help marketing managers achieve their goals effectively. By setting SMART goals, outlining timelines, and allocating resources wisely, marketing managers can develop campaigns that drive business growth.
