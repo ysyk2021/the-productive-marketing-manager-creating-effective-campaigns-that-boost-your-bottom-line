@@ -8,7 +8,6 @@ The book emphasizes the importance of setting SMART goals that are aligned with 
 
 Through continued learning and development, marketing managers can develop the skills needed to create effective marketing campaigns that boost their bottom line. This book provides practical advice and actionable insights for marketing managers looking to achieve long-term success. Whether you're a seasoned marketing professional or just starting out in your career, "The Productive Marketing Manager" is an essential resource for driving business growth through effective marketing campaigns.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
