@@ -1,5 +1,3 @@
-Techniques for Setting SMART Goals, Outlining Timelines, and Allocating Resources Effectively
-======================================================================================================
 
 In this chapter, we will explore the techniques and strategies that productive marketing managers can use to set SMART goals, outline timelines, and allocate resources effectively. These practices are essential for creating effective marketing campaigns that maximize results and contribute to the organization's bottom line.
 

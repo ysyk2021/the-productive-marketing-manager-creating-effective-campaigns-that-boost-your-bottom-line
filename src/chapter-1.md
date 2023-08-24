@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In this chapter, we will define the productive marketing manager and its benefits. We will also provide an overview of the essential techniques for creating effective campaigns that boost your bottom line.
 

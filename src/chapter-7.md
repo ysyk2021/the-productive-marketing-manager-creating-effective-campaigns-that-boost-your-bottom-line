@@ -1,5 +1,3 @@
-Chapter 7: Collaborating with Cross-Functional Teams
-====================================================
 
 In this chapter, we will discuss the importance of collaborating with cross-functional teams in successful marketing campaigns. We will also cover tips for building relationships with stakeholders, communicating effectively, and integrating feedback into campaigns.
 

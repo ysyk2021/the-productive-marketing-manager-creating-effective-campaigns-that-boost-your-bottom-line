@@ -1,5 +1,3 @@
-Chapter 3: Developing a Marketing Plan and Budget
-=================================================
 
 In this chapter, we'll discuss the importance of developing a marketing plan and budget in achieving campaign goals. We'll also provide techniques for setting SMART goals, outlining timelines, and allocating resources effectively.
 
