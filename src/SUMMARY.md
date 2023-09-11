@@ -29,3 +29,4 @@
   - [Techniques for staying informed, anticipating changes, and pivoting strategies as needed](chapter-9-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
